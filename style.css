@@ -9,6 +9,7 @@ h1{
     color: orange;
 }
 section{ display: flex;
+    margin-bottom: 150px;
 
 }
 .half-witdh{
@@ -31,5 +32,17 @@ section{ display: flex;
 .top-banner{
     background-image: url(back/top-banner.png);
     background-repeat: no-repeat;
+}
+.one{
+    width:90%;
+    padding:10%;
+}
+.ome img{
+    width:20%;
+}
+.dream-big{
+    background-image: url(back/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
